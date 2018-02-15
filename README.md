@@ -2,6 +2,10 @@
 
 An example using Ecto changesets and Phoenix form helpers without a database to validate incoming data 'at the boundary.'
 
+  * [controllers/survey_controller.ex](https://github.com/elliotthilaire/ecto_form_changeset_example/blob/master/lib/form_changeset_example_web/controllers/survey_controller.ex)
+  * [templates/survey/new.html.eex](https://github.com/elliotthilaire/ecto_form_changeset_example/blob/master/lib/form_changeset_example_web/templates/survey/new.html.eex)
+  * [forms/survey_form.ex](https://github.com/elliotthilaire/ecto_form_changeset_example/blob/master/lib/form_changeset_example_web/forms/survey_form.ex)
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
